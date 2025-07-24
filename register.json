@@ -1,0 +1,8 @@
+{
+    "name": "John Doe",
+    "age": 21,
+    "gender": "Male",
+    "email": "john@example.com",
+    "course": "Full Stack Development",
+    "timestamp": "2025-03-01T12:00:00Z"
+}
